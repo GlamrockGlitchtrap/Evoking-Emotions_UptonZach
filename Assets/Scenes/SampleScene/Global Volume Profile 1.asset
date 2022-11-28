@@ -25,7 +25,7 @@ MonoBehaviour:
     m_Value: {x: 0.5, y: 0.5}
   intensity:
     m_OverrideState: 1
-    m_Value: 0.462
+    m_Value: 0.254
     min: 0
     max: 1
   smoothness:
@@ -68,12 +68,12 @@ MonoBehaviour:
   m_AdvancedMode: 0
   temperature:
     m_OverrideState: 1
-    m_Value: 96.1
+    m_Value: 7.5
     min: -100
     max: 100
   tint:
     m_OverrideState: 1
-    m_Value: 31.3
+    m_Value: -1
     min: -100
     max: 100
 --- !u!114 &8267032776245462121
